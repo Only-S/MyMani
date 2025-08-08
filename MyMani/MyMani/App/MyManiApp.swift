@@ -2,7 +2,7 @@
 //  MyManiApp.swift
 //  MyMani
 //
-//  Created by Richard Fagundes Rodrigues on 08/08/25.
+//  Created by Richard Fagundes Rodrigues on 06/08/25.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct MyManiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TabBar()
         }
     }
 }
